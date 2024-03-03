@@ -1,0 +1,24 @@
+#hero-section {
+    background-image: url("../assests/pics/architect.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+#br-text{
+    padding: 8px 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    
+}
+#a-text{
+    letter-spacing: 2px ;
+}
+#projects-section .card{
+    padding-bottom: 16px;
+}
+#about-section img{
+    filter: grayscale(70%);
+}
+header{
+    z-index: 100;
+}
